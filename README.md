@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meryem</h1>
-<h3 align="center">A passionate software engineer from Morocco</h3>
+<h3 align="center">A passionate Cybersecurity engineer from Morocco</h3>
 
 
 # 📊 GitHub Stats:
